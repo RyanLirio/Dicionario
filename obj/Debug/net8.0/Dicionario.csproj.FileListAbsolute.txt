@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\obj\Debug\net8.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\obj\Debug\net8.0\Dicionario.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\obj\Debug\net8.0\Dicionario.AssemblyInfo.cs
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\obj\Debug\net8.0\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\bin\Debug\net8.0\Dicionario.exe
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\bin\Debug\net8.0\Dicionario.deps.json
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\bin\Debug\net8.0\Dicionario.runtimeconfig.json
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\bin\Debug\net8.0\Dicionario.dll
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\bin\Debug\net8.0\Dicionario.pdb
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\obj\Debug\net8.0\Dicionario.dll
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\obj\Debug\net8.0\refint\Dicionario.dll
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\obj\Debug\net8.0\Dicionario.pdb
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\obj\Debug\net8.0\Dicionario.genruntimeconfig.cache
+C:\Users\RL\desktop\csharp\Mauricinho\HashTable\Dicionario\obj\Debug\net8.0\ref\Dicionario.dll
